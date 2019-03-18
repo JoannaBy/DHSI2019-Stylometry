@@ -29,12 +29,11 @@ If you plan to cite this software (please do!), use the following reference:
 
 To get full BibTeX entry, type: citation("stylo")
 ```
-If nothing happened - 'stylo' was not installed, look what the message that appeared after last command says - can you see an error and fix it? If you can't fix it - drop me an e-mail and I'll help you out.
+If nothing happened - 'stylo' was not installed, look what the message that appeared after last command says - can you see an error and fix it? You will find tips on solving common errors on the [project website](https://github.com/computationalstylistics/stylo). If you can't fix it - drop me an e-mail and I'll help you out.
   
 You can also try to install 'stylo' another way, e.g. from Github or from a local file. To do so look at general instruction: https://github.com/computationalstylistics/stylo
 
 ### 3. Gephi
-You should already have it installed if you followed the installation of software needed for Meliha Handzic's workshop.   
-Otherwise, go to https://gephi.org/ and download Gephi.  
+Please go to: https://gephi.org/ and download Gephi.  
 After installing it, run and check that the program opens.
 
