@@ -1,7 +1,9 @@
 # Useful tools
 
 ## Text editors
-* [Notepad++](https://notepad-plus-plus.org/) - easy-in-use editor tool, useful for changing formatting, allows for editing multiple files at the same time.  
+* [Notepad++](https://notepad-plus-plus.org/) - easy-in-use editor tool, useful for changing formatting, allows for editing multiple files at the same time (Windows; there is a Linux clone named Notepadqq).
+* Gedit (Linux)
+* TextWrangler (MacOS)
 * [GrepWin](https://tools.stefankueng.com/grepWin.html) - searching and replacing in multiple files at the same time.
   
 ## Part-of-speech tagging tools
