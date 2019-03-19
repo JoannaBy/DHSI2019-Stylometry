@@ -1,6 +1,6 @@
 # Homeworks
 ## For the first day
-Install necessary [programs](https://github.com/JoannaBy/DHSI2019-Stylometry/blob/master/installations.md), let us know if you encounter problems that you cannot fix - you will find the list of common issues [here]. 
+Install necessary [programs](https://github.com/JoannaBy/DHSI2019-Stylometry/blob/master/installations.md), let us know if you encounter problems that you cannot fix - you will find the list of common issues [here](https://github.com/computationalstylistics/stylo#installation-issues). 
 
 ## For the second day
 Prepare your corpus: about 20-30 texts of approximately similar length, saved in plain text (txt) format, UTF-8 encoded (if you're using Windows machine, please check that the files are saved as UTF-8 without BOM - you can easily do that with one of the text editors we recommended in [useful tools](https://github.com/JoannaBy/DHSI2019-Stylometry/blob/master/before_the_course/useful_tools.md). One source of texts you may want to choose is [Project Gutenberg](http://www.gutenberg.org/). You can also choose of the corpora offered in our group's [resources](https://computationalstylistics.github.io/resources/).
