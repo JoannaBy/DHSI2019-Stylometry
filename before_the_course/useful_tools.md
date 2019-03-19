@@ -2,8 +2,8 @@
 
 ## Text editors
 * [Notepad++](https://notepad-plus-plus.org/) - easy-in-use editor tool, useful for changing formatting, allows for editing multiple files at the same time (Windows; there is a Linux clone named Notepadqq).
-* Gedit (Linux)
-* TextWrangler (MacOS)
+* [Gedit](https://wiki.gnome.org/Apps/Gedit) (Linux and more)
+* [TextWrangler](https://itunes.apple.com/pl/app/textwrangler/id404010395?mt=12) (MacOS)
 * [GrepWin](https://tools.stefankueng.com/grepWin.html) - searching and replacing in multiple files at the same time.
   
 ## Part-of-speech tagging tools
@@ -15,7 +15,7 @@
 * [Regex sandbox](https://regex101.com/) - this is where you can test your regex.  
 
 ## Text analysis of concordances
-[AntConc](http://www.laurenceanthony.net/software.html) - a freeware tool for easy concordancing and text analysis.  
+* [AntConc](http://www.laurenceanthony.net/software.html) - a freeware tool for easy concordancing and text analysis.  
 
 ## Syntax analysis and processing
 * [UDPipe tool](http://lindat.mff.cuni.cz/services/udpipe/) - syntax analysis and processing tool.
