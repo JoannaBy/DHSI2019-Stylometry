@@ -10,4 +10,4 @@ Think about an authorship case study you'd like to do tomorrow. We'll be learnin
 You will need:  
 * 1 (or more) text you want to examine. It can be an anonymous work or a suspected collaborative work,
 * collection of texts by at least 2 potential authors,
-  * note that the number of words for each of them should be roughly equal, so e.g. 5 texts of 10,000 words each for each of the authors is fine, but 5 of 10,000 i 10 of 100 - not.
+  * note that the number of words for each of them should be roughly equal, so e.g. 5 texts of 10,000 words each for each of the authors is fine, but 5 of 10,000 and 10 of 100 - not.
