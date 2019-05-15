@@ -37,3 +37,6 @@ You can also try to install 'stylo' another way, e.g. from Github or from a loca
 Please go to: https://gephi.org/ and download Gephi.  
 After installing it, run and check that the program opens.
 
+## Corpora to download
+Please download [a small corpus for first experiments](https://github.com/computationalstylistics/A_Small_Collection_of_British_Fiction) for the first class.
+
