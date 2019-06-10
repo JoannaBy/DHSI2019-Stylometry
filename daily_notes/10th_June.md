@@ -11,6 +11,7 @@ This file includes notes and materials for the first day of the course and will 
 * the concept of Delta distance measure,
 * cluster analysis - simple classification supervised machine learning method,
 * bootstrap consensus tree (more on that tomorrow!)
+* R as a programming language - how to move in command line, function (an action performed to achieve some defined result) vs variable (place you store something)
 
 ### In stylo
 #### Set the working directory:
