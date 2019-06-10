@@ -33,4 +33,4 @@ Documentation of the package ‘stylo’:
 * for advanced users: [a paper in R Journal](https://journal.r-project.org/archive/2016/RJ-2016-007/RJ-2016-007.pdf)
 * full documentation at [CRAN](https://cran.r-project.org/web/packages/stylo/stylo.pdf)  
   
-More on useful tools [here](https://github.com/JoannaBy/DHSI2019-Stylometry/blob/master/useful_tools.md).
+More on useful tools [here](https://github.com/JoannaBy/DHSI2019-Stylometry/blob/master/before_the_course/useful_tools.md).
