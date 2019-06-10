@@ -1,4 +1,4 @@
-# 11th June
+# 10th June
 
 This file includes notes and materials for the first day of the course and will grow during the day.
 
