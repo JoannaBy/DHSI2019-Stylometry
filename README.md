@@ -1,8 +1,10 @@
 # DHSI Stylometry with R: Computer-Assisted Analysis of Literary Texts
 Notes and materials for "Stylometry with R: Computer-Assisted Analysis of Literary Texts" course run by [Maciej Eder](http://maciejeder.org/) and [Joanna Byszuk](https://joannaby.github.io/) at the [DHSI 2019](http://www.dhsi.org).  
+  
+We acknowledge and respect the Lkwungen-speaking peoples, on whose traditional territory the university where we teach stands, and the Songhees, Esquimalt and WSÁNEĆ peoples whose historical relationships with the land continue to this day.  
 
 ## Pre-course
-Before the course, please take a look at the reading list and install necessary programs.
+Before the course, please take a look at the reading list and install necessary programs. Please take a moment to read [DHSI Statement on Ethics and Inclusion](http://www.dhsi.org/events.php#ethics+inclusion).
   
 ### Reading  
 All the suggested readings are available in the coursepack provided to you via DHSI channels.  
