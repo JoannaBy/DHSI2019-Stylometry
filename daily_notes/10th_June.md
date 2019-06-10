@@ -12,6 +12,9 @@ This file includes notes and materials for the first day of the course and will 
 * cluster analysis - simple classification supervised machine learning method,
 * bootstrap consensus tree (more on that tomorrow!)
 * R as a programming language - how to move in command line, function (an action performed to achieve some defined result) vs variable (place you store something)
+* you've built your first analyses!
+* what we find in stylo interface - 
+[cheatsheet docu](https://github.com/JoannaBy/stylo_nutshell), more detailed descriptions in [documentation](https://cran.r-project.org/web/packages/stylo/stylo.pdf) and a particularly beginner-friendly [HOW TO](https://sites.google.com/site/computationalstylistics/stylo/stylo_howto.pdf?attredirects=0).
 
 ### In stylo
 #### Set the working directory:
