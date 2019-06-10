@@ -20,20 +20,20 @@ This file includes notes and materials for the first day of the course and will 
 #### Set the working directory:
 
 Command line: 
-'''
+```
 setwd("the/path/to/my/favourite/folder")
-'''
+```
 
 RStudio users: find your directory in the Files panel, then use Menu > More > Set as Working Directory
 
 Windows users: use Menu > File > Change directory
 
 #### New commands
-library(stylo) - telling the computer to load 'stylo' library. You need to do this every time you turn on R.
-stylo() - command for basic stylometric analysis
-getwd() - check which location is your current directory
-setwd("..") - go one directory up, so e.g. from "Joanna/projects/A_Small_Collection" to "Joanna/projects"
-list.files() - list all the files in this directory
+```library(stylo)``` - telling the computer to load 'stylo' library. You need to do this every time you turn on R.
+```stylo()``` - command for basic stylometric analysis
+```getwd()``` - check which location is your current directory
+```setwd("..")``` - go one directory up, so e.g. from "Joanna/projects/A_Small_Collection" to "Joanna/projects"
+```list.files()``` - list all the files in this directory
 
 
 [cheatsheet docu](https://github.com/JoannaBy/stylo_nutshell)
