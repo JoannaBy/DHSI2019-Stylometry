@@ -3,12 +3,15 @@
 This file includes notes and materials for the first day of the course and will grow during the day.
 
 ### Introduction to stylometry:
-Today we cover:
+Today we cover [plan and outline]
 * how does stylometry work?
 * why do the most frequent words matter,
 * the concept of Delta distance measure,
 * cluster analysis - simple classification supervised machine learning method,
 * bootstrap consensus tree (more on that tomorrow!)
+
+### Today we covered - details:
+* history of stylometry (early cases of debate over authorshop of The Donation of Constantine, works of Shakespeare, Pauline Epistles and Plato)
 
 ### The reading behind that (two first texts are in your coursepack):
 * Rybicki, J., Eder, M., Hoover, D. L. "Computational Stylistics and Text Analysis." in Doing Digital Humanities. Practice, Training, Research. Eds Crompton, C., Lane, R.J., Siemens, R. Oxford: Routledge, 2016, pp. 123-144.
