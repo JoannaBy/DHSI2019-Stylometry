@@ -2,18 +2,34 @@
 
 This file includes notes and materials for the first day of the course and will grow during the day.
 
-### Introduction to stylometry:
-Today we cover [plan and outline]
+### Today we covered - introductions to stylometry:
+* history of stylometry (early cases of debate over authorshop of The Donation of Constantine, works of Shakespeare, Pauline Epistles and Plato),
+* what kind of texts do we need for the analysis? "Raw" texts usually provide enough information for a successful authorship attribution,
+* applications of stylometry: authorship attribution, genre studies, chronology studies,
 * how does stylometry work?
 * why do the most frequent words matter,
 * the concept of Delta distance measure,
 * cluster analysis - simple classification supervised machine learning method,
 * bootstrap consensus tree (more on that tomorrow!)
 
-### Today we covered - details:
-* history of stylometry (early cases of debate over authorshop of The Donation of Constantine, works of Shakespeare, Pauline Epistles and Plato),
-* what kind of texts do we need for the analysis? "Raw" texts usually provide enough information for a successful authorship attribution,
-* applications of stylometry: authorship attribution, genre studies, chronology studies.
+### In stylo
+#### Set the working directory:
+
+Command line: 
+'''
+setwd("the/path/to/my/favourite/folder")
+'''
+
+RStudio users: find your directory in the Files panel, then use Menu > More > Set as Working Directory
+
+Windows users: use Menu > File > Change directory
+
+#### New commands
+library(stylo) - telling the computer to load 'stylo' library. You need to do this every time you turn on R.
+stylo() - command for basic analysis
+
+[cheatsheet docu](https://github.com/JoannaBy/stylo_nutshell)
+
 
 ### The reading behind that (two first texts are in your coursepack):
 * Rybicki, J., Eder, M., Hoover, D. L. "Computational Stylistics and Text Analysis." in Doing Digital Humanities. Practice, Training, Research. Eds Crompton, C., Lane, R.J., Siemens, R. Oxford: Routledge, 2016, pp. 123-144.
