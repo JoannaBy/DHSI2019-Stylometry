@@ -2,6 +2,8 @@
 This file includes notes and materials for the second day of the course and will grow during the day.
 ## What we cover today
   * case study "Collaborative authorship in the twelfth century: A stylometric study of Hildegard of Bingen and Guibert of Gembloux"
+  * About culling
+  * a brief intro to topic modeling
   * distance measures in stylometry
   
   
@@ -21,6 +23,7 @@ This file includes notes and materials for the second day of the course and will
 
 #### Extra reading
 * Kestemont et al. "Collaborative authorship in the twelfth century: A stylometric study of Hildegard of Bingen and Guibert of Gembloux", Digital Scholarship in the Humanities 30:2 (2015), pp. 199–224, [here](https://academic.oup.com/dsh/article/30/2/199/389065)
+* Waldenfels, R. von, and Eder, M. (2016). A stylometric approach to the study of differences between Croatian and Serbian, or: is the Hobbit in Serbian more Hobbit or more Serbian? Russian Linguistics, 40(1): 11-31, [here](https://www.readcube.com/articles/10.1007%2Fs11185-015-9155-4?author_access_token=iV_8_zTtyav_ifZMovzoAPe4RwlQNchNByi7wbcMAY5cDcal5rddK6Gvy0a6bnmz2ryC6ldf36rLEQY4H3NmrJ6jI-jyvC-H_-RYTrvpf2NXBpudlgy6pyZPuW7DOG9jvTSwDeAx-pcoUMwEKaHVQA==).
 
 #### From the coursepack - documentation of functions we use today:
 * [Short reminder](https://computationalstylistics.github.io/stylo_nutshell/#running-stylo)
@@ -28,3 +31,10 @@ This file includes notes and materials for the second day of the course and will
 * [CRAN documentation](https://cran.r-project.org/web/packages/stylo/stylo.pdf) - pages 60-66.
 * Eder, M., Kestemont, M. and Rybicki, J. “Stylometry with R: A Package for Computational Text Analysis.” The R Journal, vol. 8, no. 1, 2016, pp. 107–21. [Click.](https://journal.r-project.org/archive/2016/RJ-2016-007/RJ-2016-007.pdf) 
 
+### On topic modeling
+* [Dariah Topics Explorer](https://dariah-de.github.io/TopicsExplorer/)
+* [Programming Historian lesson](https://programminghistorian.org/en/lessons/topic-modeling-and-mallet)
+* [R topicmodels package](https://cran.r-project.org/web/packages/topicmodels/index.html) - remember how to install? 
+```
+install.packages("topicmodels")
+```
