@@ -38,3 +38,6 @@ This file includes notes and materials for the second day of the course and will
 ```
 install.packages("topicmodels")
 ```
+
+### Cool trivia
+[Mr Darcy in space!](https://archiveofourown.org/works/14296110/chapters/32980422) - many thanks to Tyler for finding this gem!
