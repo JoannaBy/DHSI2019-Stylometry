@@ -4,15 +4,13 @@ This file includes notes and materials for the second day of the course and will
   * case study "Collaborative authorship in the twelfth century: A stylometric study of Hildegard of Bingen and Guibert of Gembloux"
   * a little about culling [slides](https://joannaby.github.io/Culling/Culling.html)
   * a brief intro to topic modeling
-  * distance measures in stylometry
-  
-  
-### Introduction to stylometry (afternoon plan)
-* How are networks useful to literary studies?
-* Exploring relations between authors with networks.
-  * Collaborative authorship.
-  * Stylochronology.
-  * Literary big data as a network.  
+  * methods involving dimension reduction: PCA and MDS, what are their benefits and limitations
+  * distance measures in stylometry [slides](https://github.com/JoannaBy/DHSI2019-Stylometry/blob/master/presentations/DistanceMeasures.pdf)
+  * bootstrap consensus trees and networks - how are networks useful to literary studies?
+  ** Exploring relations between authors with networks.
+  ** Collaborative authorship.
+  ** Stylochronology.
+  ** Literary big data as a network.  
 * Gephi hands on!
   
 ### The reading
@@ -24,6 +22,14 @@ This file includes notes and materials for the second day of the course and will
 #### Extra reading
 * Kestemont et al. "Collaborative authorship in the twelfth century: A stylometric study of Hildegard of Bingen and Guibert of Gembloux", Digital Scholarship in the Humanities 30:2 (2015), pp. 199–224, [here](https://academic.oup.com/dsh/article/30/2/199/389065)
 * Waldenfels, R. von, and Eder, M. (2016). A stylometric approach to the study of differences between Croatian and Serbian, or: is the Hobbit in Serbian more Hobbit or more Serbian? Russian Linguistics, 40(1): 11-31, [here](https://www.readcube.com/articles/10.1007%2Fs11185-015-9155-4?author_access_token=iV_8_zTtyav_ifZMovzoAPe4RwlQNchNByi7wbcMAY5cDcal5rddK6Gvy0a6bnmz2ryC6ldf36rLEQY4H3NmrJ6jI-jyvC-H_-RYTrvpf2NXBpudlgy6pyZPuW7DOG9jvTSwDeAx-pcoUMwEKaHVQA==).
+
+#### Extra - texts on culling
+* Hoover, D.L. [Testing Burrows's Delta](https://academic.oup.com/dsh/article-abstract/19/4/453/943644?redirectedFrom=fulltext)
+* Hoover, D.L. [Delta Prime?](https://academic.oup.com/dsh/article-abstract/19/4/477/943645?redirectedFrom=fulltext)
+
+#### Extra - detailed explanations of dimension reduction methods
+* [Making sense of PCA by multistep explanations](https://stats.stackexchange.com/questions/2691/making-sense-of-principal-component-analysis-eigenvectors-eigenvalues?answertab=votes#tab-top) - how would you explain it to people with various levels of mathematical understanding, starting with a great-grandmother all the way to a daugther - mathematician.
+* [PCA layman video](https://www.youtube.com/watch?v=BfTMmoDFXyE)
 
 #### From the coursepack - documentation of functions we use today:
 * [Short reminder](https://computationalstylistics.github.io/stylo_nutshell/#running-stylo)
