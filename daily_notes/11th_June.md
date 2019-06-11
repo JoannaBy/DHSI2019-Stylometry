@@ -2,7 +2,7 @@
 This file includes notes and materials for the second day of the course and will grow during the day.
 ## What we cover today
   * case study "Collaborative authorship in the twelfth century: A stylometric study of Hildegard of Bingen and Guibert of Gembloux"
-  * About culling
+  * a little about culling [slides](https://joannaby.github.io/Culling/Culling.html)
   * a brief intro to topic modeling
   * distance measures in stylometry
   
