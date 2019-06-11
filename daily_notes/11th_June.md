@@ -6,15 +6,11 @@ This file includes notes and materials for the second day of the course and will
   * a brief intro to topic modeling
   * methods involving dimension reduction: PCA and MDS, what are their benefits and limitations
   * distance measures in stylometry [slides](https://github.com/JoannaBy/DHSI2019-Stylometry/blob/master/presentations/DistanceMeasures.pdf)
-  * bootstrap consensus trees and networks
-  
-  
-### Introduction to stylometry (afternoon plan)
-* How are networks useful to literary studies?
-* Exploring relations between authors with networks.
-  * Collaborative authorship.
-  * Stylochronology.
-  * Literary big data as a network.  
+  * bootstrap consensus trees and networks - how are networks useful to literary studies?
+  ** Exploring relations between authors with networks.
+  ** Collaborative authorship.
+  ** Stylochronology.
+  ** Literary big data as a network.  
 * Gephi hands on!
   
 ### The reading
