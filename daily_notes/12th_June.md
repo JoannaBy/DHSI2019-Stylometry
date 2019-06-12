@@ -3,6 +3,7 @@ This file includes notes and materials for the third day of the course and will 
 ## What we cover today
   
 ### Introduction to stylometry [plan]
+* Verifying hypotheses with networks case study: Doctor Who
 * Networks in Gephi - how to
 * How to compare corpora? How to divide corpus into representative samples?
 * Craig's Zeta and its implementation in oppose() function of 'stylo' package:
