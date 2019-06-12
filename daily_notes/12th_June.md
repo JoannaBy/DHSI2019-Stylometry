@@ -26,6 +26,7 @@ This file includes notes and materials for the third day of the course and will 
 ### Regular expressions aka regex
 Regex for extracting author: ^[A-Za-z]*
 Learn more:
+* [Regex cheatsheet](https://medium.com/factory-mind/regex-tutorial-a-simple-cheatsheet-by-examples-649dc1c3f285)
 * [Get regex skills doing crosswords!](https://regexcrossword.com/) - by far the coolest way to learn regex.  
 * [Regex sandbox](https://regex101.com/) - this is where you can test your regex.  
 
