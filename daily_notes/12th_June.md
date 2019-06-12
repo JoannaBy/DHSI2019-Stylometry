@@ -34,6 +34,7 @@ Learn more:
 
 
 #### Extras
+* Six degrees of Kevin Bacon [Exploration](http://www.sixdegreesoffrancisbacon.com/?ids=10000473&min_confidence=60&type=network), [wiki](https://en.wikipedia.org/wiki/Six_Degrees_of_Kevin_Bacon)
 * Jan Rybicki's paper on gender differences:  
 Rybicki, J. “Vive La Différence: Tracing the (Authorial) Gender Signal by Multivariate Analysis of Word Frequencies.” Digital Scholarship in the Humanities, vol. 31, no. 4, Dec. 2016, pp. 746–61, doi:10.1093/llc/fqv023.
 * Detailed insight into comparing corpora:  
