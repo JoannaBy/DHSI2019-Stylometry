@@ -23,6 +23,13 @@ This file includes notes and materials for the third day of the course and will 
 * [CRAN documentation](https://cran.r-project.org/web/packages/stylo/stylo.pdf) - pages 39-41.
 * Eder, M., Kestemont, M. and Rybicki, J. “Stylometry with R: A Package for Computational Text Analysis.” The R Journal, vol. 8, no. 1, 2016, pp. 107–21. [Click.](https://journal.r-project.org/archive/2016/RJ-2016-007/RJ-2016-007.pdf) 
 
+### Regular expressions aka regex
+Regex for extracting author: ^[A-Za-z]*
+Learn more:
+* [Get regex skills doing crosswords!](https://regexcrossword.com/) - by far the coolest way to learn regex.  
+* [Regex sandbox](https://regex101.com/) - this is where you can test your regex.  
+
+
 #### Extras
 * Jan Rybicki's paper on gender differences:  
 Rybicki, J. “Vive La Différence: Tracing the (Authorial) Gender Signal by Multivariate Analysis of Word Frequencies.” Digital Scholarship in the Humanities, vol. 31, no. 4, Dec. 2016, pp. 746–61, doi:10.1093/llc/fqv023.
