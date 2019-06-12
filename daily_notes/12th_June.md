@@ -24,7 +24,8 @@ This file includes notes and materials for the third day of the course and will 
 * Eder, M., Kestemont, M. and Rybicki, J. “Stylometry with R: A Package for Computational Text Analysis.” The R Journal, vol. 8, no. 1, 2016, pp. 107–21. [Click.](https://journal.r-project.org/archive/2016/RJ-2016-007/RJ-2016-007.pdf) 
 
 ### Regular expressions aka regex
-Regex for extracting author: ^[A-Za-z]*  
+Regex for extracting author (or rather: all the letters before a first non-character sign appears, so everything before first underscore): ^[A-Za-z]*  
+Regex for extracting text after the first underscore (but befor another non-character sign appears): \_[A-Za-z]*
   
 Learn more:
 * [Regex cheatsheet](https://medium.com/factory-mind/regex-tutorial-a-simple-cheatsheet-by-examples-649dc1c3f285)
