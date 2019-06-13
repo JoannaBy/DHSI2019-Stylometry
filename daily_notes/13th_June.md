@@ -9,7 +9,7 @@ This file includes notes and materials for the fourth day of the course and will
   * Cross-validation
   * Conditions of a reliable classification study - how to choose texts? how many words do we need?
 * Supervised classification with classify()
-* Taking a close look at the author - rolling.classify()
+* Taking a closer look at the author - sequential analysis with rolling.classify()
 
 ### New functions
 ```
