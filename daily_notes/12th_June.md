@@ -2,14 +2,16 @@
 This file includes notes and materials for the third day of the course and will grow during the day.
 ## What we cover today
   
-### Introduction to stylometry [plan]
+### Introduction to stylometry
 * Verifying hypotheses with networks case study: Doctor Who
 * Networks in Gephi - how to
+* Community detection methods, such as Leuven algorithm of modularity
 * How to compare corpora? How to divide corpus into representative samples?
 * Craig's Zeta and its implementation in oppose() function of 'stylo' package:
   * words preferred - words consistently used only in the primary set,
   * words avoided - words consistently used only in the secondary set,
   * markers.
+* [slides on Craig's Zeta](https://github.com/JoannaBy/DHSI2019-Stylometry/blob/master/presentations/Comparing%20(groups%20of)%20texts.pdf) - the part of my research removed as it is currently under peer review
 
 ### The reading
 #### From the coursepack
@@ -39,6 +41,7 @@ Learn more:
 Rybicki, J. “Vive La Différence: Tracing the (Authorial) Gender Signal by Multivariate Analysis of Word Frequencies.” Digital Scholarship in the Humanities, vol. 31, no. 4, Dec. 2016, pp. 746–61, doi:10.1093/llc/fqv023.
 * Detailed insight into comparing corpora:  
 Kilgarriff, Adam. “Comparing Corpora. International Journal of Corpus Linguistics, vol. 6, no. 1, 2001, pp. 97–133.
+* Best introduction to networks - Mark Newman, Networks: An Introduction.
 
 
 
