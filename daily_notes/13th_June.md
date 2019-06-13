@@ -7,7 +7,7 @@ This file includes notes and materials for the fourth day of the course and will
   * Training set vs test set
   * Training the classifier
   * Cross-validation
-  * Conditions of a reliable classification study
+  * Conditions of a reliable classification study - how to choose texts? how many words do we need?
 * Supervised classification with classify()
 * Taking a close look at the author - rolling.classify()
 
