@@ -13,6 +13,12 @@ This file includes notes and materials for the third day of the course and will 
   * markers.
 * [slides on Craig's Zeta](https://github.com/JoannaBy/DHSI2019-Stylometry/blob/master/presentations/Comparing%20(groups%20of)%20texts.pdf) - the part of my research removed as it is currently under peer review
 
+### New functions
+```
+oppose()  
+```
+a function performing a contrastive analysis. You need *primary_set* and *secondary_set* in your *A_Small_Collection* folder. In each folder we put a number of texts representing a group suspected of being distinctive from the other one in a significant way. 
+
 ### The reading
 #### From the coursepack
 * Craig, H., and Kinney, A. F. “Methods.” in Shakespeare, Computers, and the Mystery of Authorship, Cambridge University Press, 2009, p. 15-40.
