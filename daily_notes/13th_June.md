@@ -53,5 +53,5 @@ a function performing sequential analysis
 [Rolling stylometry](https://computationalstylistics.github.io/docs/rolling_stylometry)   
 [Using custom distance measures](https://computationalstylistics.github.io/docs/custom_distances)  
 [Paper on Brothers Grimm](https://www.frontiersin.org/articles/10.3389/fdigh.2018.00004/full)  
-[Karina's paper: Delta in 3D: Copyists Distinction by Scaling Burrows’s Delta](http://www.dh2012.uni-hamburg.de/conference/programme/abstracts/delta-in-3d-copyists-distinction-by-scaling-burrowss-delta/)  
+[Karina's paper: Delta for Middle Dutch—Author and Copyist Distinction in Walewein](https://academic.oup.com/dsh/article/22/3/345/951140)  
 [Book on attribution of Ferrante](http://www.padovauniversitypress.it/publications/9788869381300)
