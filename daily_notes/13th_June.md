@@ -6,6 +6,8 @@ This file includes notes and materials for the fourth day of the course and will
 * What is classification? How does it work?
   * Training set vs test set
   * Training the classifier
+  * Cross-validation
+  * Conditions of a reliable classification study
 * Supervised classification with classify()
 * Taking a close look at the author - rolling.classify()
 
