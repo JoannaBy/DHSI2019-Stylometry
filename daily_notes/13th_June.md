@@ -31,7 +31,12 @@ results = classify(cv.folds = 10)
 ```
 rolling.classify()
 ```
-a function performing sequential analysis
+a function performing sequential analysis.  
+Full set of features is in documentation, for brief reference go to: [cheatsheet](https://computationalstylistics.github.io/stylo_nutshell/#running-rolling.classify) or Maciej's blog post on [Roman de la Rose](https://computationalstylistics.github.io/docs/rolling_stylometry).
+Methods shortcut:  
+* delta - Delta, this is default version, outputs 3 lines showing the most probable candidate classes 
+* svm - Support Vector Machine - outputs 2 lines surronding invisible axis, the bottom one shows the dominating influence and its strength (through the thickness of the line), the upper one shows the second strongest influence  
+* nsc - Nearest Shrunken Centroids - the graph is alike this of svm
 
 ### The reading
 #### From the coursepack
