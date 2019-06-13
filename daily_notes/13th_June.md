@@ -17,7 +17,7 @@ classify()
 ````
 a function performing classification.  
 Data setup:  
-You need primary_set and secondary_set in your A_Small_Collection folder. Primary_set serves as a training set, and secondary_set is where we put texts to be tested.
+You need *primary_set* and *secondary_set* in your *A_Small_Collection* folder. *Primary_set* serves as a training set, and *secondary_set* is where we put texts to be tested, which means that texts in the *primary_set* will be used to create a virtual model of style for each class of the texts (class is indicated by information before the underscore in the name of the file, e.g. for Austen_Emma.txt class would be Austen). After training the model, the texts in the *secondary_set* will be compared to it, based on which a classification is made - which class seems to be the one our tested text fits best.
 
 ### The reading
 #### From the coursepack
