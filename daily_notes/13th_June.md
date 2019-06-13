@@ -26,6 +26,7 @@ This file includes notes and materials for the fourth day of the course and will
 * Eder, M., Kestemont, M. and Rybicki, J. “Stylometry with R: A Package for Computational Text Analysis.” The R Journal, vol. 8, no. 1, 2016, pp. 107–21. [Click.](https://journal.r-project.org/archive/2016/RJ-2016-007/RJ-2016-007.pdf) 
 
 #### Extras
+[Maciej's paper on short samples in authorship attribution](https://dh2017.adho.org/abstracts/341/341.pdf)
 [Cross-validation using the function classify](https://computationalstylistics.github.io/docs/cross_validation)  
 [Rolling stylometry](https://computationalstylistics.github.io/docs/rolling_stylometry)  
 [Using custom distance measures](https://computationalstylistics.github.io/docs/custom_distances)
