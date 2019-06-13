@@ -38,6 +38,9 @@ Windows users: use Menu > File > Change directory
 
 [cheatsheet docu](https://github.com/JoannaBy/stylo_nutshell)
 
+### Presentations
+[Intro](https://github.com/JoannaBy/DHSI2019-Stylometry/blob/master/presentations/Stylo%20in%20Victoria%20-%20Introductions.pdf)
+Maciej's presentations shared via email
 
 ### The reading behind that (two first texts are in your coursepack):
 * Rybicki, J., Eder, M., Hoover, D. L. "Computational Stylistics and Text Analysis." in Doing Digital Humanities. Practice, Training, Research. Eds Crompton, C., Lane, R.J., Siemens, R. Oxford: Routledge, 2016, pp. 123-144.
