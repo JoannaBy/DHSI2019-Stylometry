@@ -52,5 +52,5 @@ a function performing sequential analysis
 [Cross-validation using the function classify](https://computationalstylistics.github.io/docs/cross_validation)   
 [Rolling stylometry](https://computationalstylistics.github.io/docs/rolling_stylometry)   
 [Using custom distance measures](https://computationalstylistics.github.io/docs/custom_distances)  
-[Paper on Brothers Grimm](https://www.frontiersin.org/articles/10.3389/fdigh.2018.00004/full) 
+[Paper on Brothers Grimm](https://www.frontiersin.org/articles/10.3389/fdigh.2018.00004/full)  
 [Karina's paper: Delta in 3D: Copyists Distinction by Scaling Burrows’s Delta](http://www.dh2012.uni-hamburg.de/conference/programme/abstracts/delta-in-3d-copyists-distinction-by-scaling-burrowss-delta/)
