@@ -11,6 +11,14 @@ This file includes notes and materials for the fourth day of the course and will
 * Supervised classification with classify()
 * Taking a close look at the author - rolling.classify()
 
+### New functions
+```
+classify()
+````
+a function performing classification.  
+Data setup:  
+You need primary_set and secondary_set in your A_Small_Collection folder. Primary_set serves as a training set, and secondary_set is where we put texts to be tested.
+
 ### The reading
 #### From the coursepack
 * Burrows, J. “‘Delta’: A Measure of Stylistic Difference and a Guide to Likely Authorship.” Literary and Linguistic Computing, vol. 17, no. 3, Sept. 2002, pp. 267–87.  
